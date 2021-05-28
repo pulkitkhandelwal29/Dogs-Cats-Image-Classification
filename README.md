@@ -3,7 +3,7 @@
 
 This is a **Deep Learning Project using Convolutional Neural Network(CNN)**.<br>
 In this project, we need to classify whether the images are of Dogs or Cats?<br>
-We are able to predict with the accuracy of 80%
+We are able to predict with the accuracy of approx. 82%
 
 ### Data
 Data is taken from <a href="https://www.kaggle.com/chetankv/dogs-cats-images">Kaggle</a>
@@ -20,3 +20,4 @@ Data is taken from <a href="https://www.kaggle.com/chetankv/dogs-cats-images">Ka
 * Compiling the CNN
 * Summarizing the Model
 * Concept of Image Augmentation
+* Tensorboard Visualisation
